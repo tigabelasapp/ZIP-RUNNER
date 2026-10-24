@@ -1,0 +1,6 @@
+{
+  "name": "ZIP-to-WebView Runner Pro (PENGGILAS)",
+  "description": "Studio eksekusi web app langsung dari arsip ZIP, simulasi WebView HP immersive fullscreen otomatis, cetak & download laporan PDF instan, dan skrip instalasi dependensi otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
